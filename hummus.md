@@ -1,4 +1,4 @@
 # Ingredients 
 - olive oil
--chickpea
+- SplitPea
 

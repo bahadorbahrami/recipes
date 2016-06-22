@@ -2,5 +2,5 @@
 - avocado
 - onions
 - lime
-- salt
+- salt and pepper
 #instructions 

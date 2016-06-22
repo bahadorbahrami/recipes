@@ -1,6 +1,6 @@
 #ingredients 
 - avocado
 - onions
-- lemon
+- lime
 - salt
 #instructions 
